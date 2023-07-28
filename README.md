@@ -7,3 +7,4 @@ for testing Grade if it correctly works.
 * GenerateTranscript class will be updated by adding new features.
 * CourseGrade contains the information that is taken by students. It has department, code, credit, grade information.
 * Transcript class is using student id and course grade information to generate a transcript and calculate gpa.
+* File should be under the main folder
